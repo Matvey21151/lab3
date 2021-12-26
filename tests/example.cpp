@@ -1,5 +1,4 @@
-// Copyright 2021 vasilyevvs
-
+// Copyright 2021 Matvey21151
 #include <stdexcept>
 
 #include <gtest/gtest.h>

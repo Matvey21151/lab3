@@ -1,5 +1,4 @@
-// Copyright 2021 vasilyevvs
-
+// Copyright 2021 Matvey21151
 #ifndef INCLUDE_EXAMPLE_HPP_
 #define INCLUDE_EXAMPLE_HPP_
 
